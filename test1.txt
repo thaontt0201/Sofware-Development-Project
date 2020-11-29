@@ -5,3 +5,4 @@ Changing in my local laptop.
 Changing from different laptop
 
 Push not pull.
+I push first
